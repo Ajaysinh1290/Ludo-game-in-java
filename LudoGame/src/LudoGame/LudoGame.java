@@ -138,6 +138,7 @@ public class LudoGame extends JFrame implements ActionListener
 		blank=new ImageIcon("blankdice.png");
 	
 		img=new ImageIcon("Webp.net-resizeimage (1).jpg");
+		
 		if(!start)
 		{
 		img.paintIcon(this,g,0,0);
