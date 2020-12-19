@@ -1,4 +1,4 @@
-# Car racing game in java swing
+# Ludo game in java swing
 
 # Youtube Demo
 
